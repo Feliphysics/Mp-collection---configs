@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GeneticRim.GeneticRim_Settings">
+		<GR_WombSpeedMultiplier>1</GR_WombSpeedMultiplier>
+		<GR_GenomorpherSpeedMultiplier>1</GR_GenomorpherSpeedMultiplier>
+		<GR_FailureRate>10</GR_FailureRate>
+		<GR_QuestRate>1</GR_QuestRate>
+		<GR_RaidsRate>1</GR_RaidsRate>
+		<GR_DisableHybridRaids>True</GR_DisableHybridRaids>
+	</ModSettings>
+</SettingsBlock>
